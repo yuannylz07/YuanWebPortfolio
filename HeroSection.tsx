@@ -50,7 +50,7 @@ export function HeroSection() {
               </div>
 
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-up animation-delay-600">
-                Passionate about building intuitive and responsive web applications.
+                Passionate about building intuitive and responsive web application.
               </p>
 
               {/* CTA Buttons */}
