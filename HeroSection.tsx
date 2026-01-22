@@ -8,7 +8,7 @@ const roles = ['Web Developer', 'IT Student'];
 const socialLinks = [
   { icon: Github, href: 'https://github.com/yuannylz07', label: 'GitHub' },
   { icon: Linkedin, href: 'https://www.linkedin.com/in/yuan-nylz-porcopio-853073298/', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:dreiroque07@gmail.com', label: 'Email' },
+  { icon: Mail, href: 'mailto:yunaoque07@gmail.com', label: 'Email' },
 ];
 
 export function HeroSection() {
