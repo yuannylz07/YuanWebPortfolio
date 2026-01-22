@@ -4,7 +4,7 @@ const education = [
   {
     degree: 'Bachelor of Science in Information Technology',
     school: 'STI College Rosario',
-    period: '2022 - Current',
+    period: '2022 - Present',
     location: 'Cavite, Philippines',
     description: 'Currently pursuing a degree in Information Technology with focus on web development and software engineering.',
     achievements: [
