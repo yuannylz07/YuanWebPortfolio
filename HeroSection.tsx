@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { TypeWriter } from '@/components/TypeWriter';
 import profilePhoto from '@/assets/Yuanpic.png';
 
-const roles = ['Web Developer', 'IT Student'];
+const roles = ['Frontend Developer', 'Quality Assurance'];
 
 const socialLinks = [
   { icon: Github, href: 'https://github.com/yuannylz07', label: 'GitHub' },
